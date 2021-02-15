@@ -1,0 +1,58 @@
+.body {
+    font-family: Arial;
+    margin: 0;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    background: darkblue;
+    color: white;
+    font-size: 20px;
+}
+
+#calculator,
+#results {
+    text-align: center;
+    color: darkblue;
+    background: white;
+    width: 500px;
+    border: 1px solid darkblue;
+    border-radius: 25px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#input-number {
+    text-align: center;
+    color: darkblue;
+    font-size: 40px;
+    background: white;
+    border: 2px solid darkblue;
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+
+#btn-add,
+#btn-subtract,
+#btn-multiply,
+#btn-divide {
+    color: white;
+    background: darkblue;
+    border: 1px solid darkblue;
+    margin-top: 30px;
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+}
+
+#btn-clear {
+    color: white;
+    background: gray;
+    border: 1px solid gray;
+    height: 30px;
+    width: 96px;
+    margin-top: 10px;
+}
